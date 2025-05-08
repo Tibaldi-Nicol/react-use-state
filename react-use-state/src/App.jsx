@@ -1,6 +1,8 @@
 import { useState } from "react";
 import LinguaggioCard from "./assets/LinguaggioCard";
 import LinguaggioButton from "./assets/LinguaggioButton";
+import "/home/nicol/Scrivania/react-use-state/react-use-state/src/App.css";
+
 
 
   const linguaggi = [
